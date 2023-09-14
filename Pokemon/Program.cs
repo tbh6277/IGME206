@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+
+            // Test fork success
+
             Console.WriteLine("Welcome to your first Pokemon game\n");
             
             Monster m1 = new Monster("M1", 1);
